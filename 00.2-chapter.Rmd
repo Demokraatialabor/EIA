@@ -192,7 +192,7 @@ Selle sajandi esimestel kümnenditel on maailmas haigusi, nälga ja vaesust tõr
 <td align="right">15</td>
 <td>USA</td>
 <td>0,92</td>
-<td>18.Mar</td>
+<td>78,9</td>
 <td>16,3</td>
 <td>13,4</td>
 <td>56 140</td>
@@ -337,7 +337,7 @@ Selle sajandi esimestel kümnenditel on maailmas haigusi, nälga ja vaesust tõr
 <td>Leedu</td>
 <td>0,869</td>
 <td>75,7</td>
-<td>16.Jan</td>
+<td>16,5</td>
 <td>13</td>
 <td>29 775</td>
 </tr>
